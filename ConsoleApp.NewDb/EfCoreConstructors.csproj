@@ -125,11 +125,6 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Migrations\20180917091532_InitialCreate.cs" />
-    <Compile Include="Migrations\20180917091532_InitialCreate.designer.cs">
-      <DependentUpon>20180917091532_InitialCreate.cs</DependentUpon>
-    </Compile>
-    <Compile Include="Migrations\EmployeeContextModelSnapshot.cs" />
     <Compile Include="Model.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
